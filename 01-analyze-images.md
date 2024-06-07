@@ -1,8 +1,10 @@
----
+Adding new file..
+
+this is test file 
 lab:
     title: 'Analyze Images with Azure AI Vision'
     module: 'Module 2 - Develop computer vision solutions with Azure AI Vision'
----
+--
 
 # Analyze Images with Azure AI Vision
 
