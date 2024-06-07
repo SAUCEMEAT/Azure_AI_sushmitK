@@ -1,6 +1,6 @@
 
 
-this is test file 
+updating from remote
 lab:
     title: 'Analyze Images with Azure AI Vision'
     module: 'Module 2 - Develop computer vision solutions with Azure AI Vision'
